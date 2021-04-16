@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://anqi3776.github.io/stellaliu2021.github.io/
+url: https://stellaliu2021.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -104,7 +104,7 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Anqi3776/stellaliu2021.github.io.git
+  repo: https://github.com/stellaliu2021/stellaliu2021.github.io.git
 
 search:
   path: search.xml
